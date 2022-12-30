@@ -1,0 +1,145 @@
+.p-Home.Flex12 {
+display: flex;
+justify-content: center;
+padding-top: 50px;
+padding-bottom: 32px;
+}
+.p-Home.Flex8 {
+display: flex;
+justify-content: space-between;
+align-self: auto;
+width: 80%;
+margin-left: 30px;
+margin-right: 30px;
+}
+.p-Home.Flex9 {
+display: flex;
+}
+.p-Home.Flex10 {
+display: flex;
+justify-content: flex-start;
+column-gap: 24px;
+font-family: IBM Plex Sans;
+font-weight: 500;
+}
+.p-Home.Flex19 {
+display: flex;
+width: ;
+padding-top: 75px;
+padding-bottom: ;
+justify-content: center;
+flex-direction: row;
+margin-top: ;
+}
+.p-Home.Flex13 {
+display: flex;
+width: 80%;
+margin-left: ;
+padding-right: ;
+margin-right: ;
+padding-left: ;
+justify-content: space-between;
+align-items: stretch;
+flex-direction: row;
+}
+.p-Home.Flex16 {
+display: flex;
+flex-direction: column;
+padding-top: 50px;
+padding-bottom: ;
+}
+.p-Home.Flex21 {
+display: flex;
+justify-content: center;
+column-gap: 34px;
+padding-top: 30px;
+}
+.p-Home.Flex20 {
+display: flex;
+justify-content: flex-start;
+column-gap: 34px;
+padding-left: ;
+width: 80%;
+}
+.p-Home.Flex17 {
+display: flex;
+}
+.p-Home.TextBox10 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+}
+.p-Home.Image7 {
+max-width: ;
+width: 5px;
+height: 5px;
+align-self: flex-end;
+padding-bottom: 7px;
+}
+.p-Home.TextBox11 {
+;
+}
+.p-Home.TextBox12 {
+;
+}
+.p-Home.TextBox13 {
+;
+}
+.p-Home.TextBox14 {
+;
+}
+.p-Home.TextBox15 {
+;
+}
+.p-Home.TextBox18 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 62px;
+background-color: #ffffff;
+}
+.p-Home.TextBox22 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 62px;
+}
+.p-Home.TextBox23 {
+padding-right: ;
+padding-bottom: ;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+}
+.p-Home.Button1 {
+color: #fff;
+background-color: #120404;
+padding-top: 8px;
+padding-left: 15px;
+padding-bottom: 8px;
+padding-right: 15px;
+font-size: 16px;
+border-radius: 2px;
+outline: none;
+font-weight: 400;
+text-align: center;
+border-width: 1px;
+border-style: solid;
+border-color: #000000;
+cursor: pointer;
+user-select: none;
+position: static;
+float: none;
+width: 100px;
+font-family: IBM Plex Sans;
+margin-right: ;
+box-sizing: content-box;
+}
+.p-Home.TextBox24 {
+padding-top: 10px;
+font-family: IBM Plex Sans;
+font-weight: 700;
+}
+.p-Home.Image2 {
+width: 80%;
+padding-left: 140px;
+height: ;
+}
